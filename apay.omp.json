@@ -56,7 +56,7 @@
 						"time_format": "3:04:05 PM"
 					},
 					"style": "diamond",
-					"template": " {{ .CurrentDate | date .Format }}<##eb70f8> \ue641 </>",
+					"template": " {{ .CurrentDate | date .Format }}<##eb70f8></>",
 					"type": "time"
 				},
 				{
